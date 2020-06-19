@@ -25,6 +25,7 @@
       <dependency>
           <groupId>io.openliberty.features</groupId>
           <artifactId>microProfile-3.0</artifactId>
+          <artifactId>servlet-3.0</artifactId>
           <type>esa</type>
       </dependency>
       <!-- For tests -->
